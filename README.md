@@ -2,7 +2,7 @@
 What I made.
 
 - [POV-Ray](POV-Ray/): 3DCG
-
+<img src="POV-Ray/dropout.jpg" width="30%">
 
 ## C
 - [C コンパイラ](https://github.com/nanana37/9cc)
