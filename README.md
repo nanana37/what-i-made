@@ -10,7 +10,7 @@ GitHub に公開している制作物を並べていきます。
 - [コード改変ツール](https://github.com/nanana37/eacces-modifier)
 
 ## Java
-- [擬似的な家具レンタルシステム(友人と共同制作)](https://github.com/udoya/FinalWork)
+- [擬似的な家具レンタルシステム](https://github.com/udoya/FinalWork): 友人と共同制作
 
 ## その他
 - [POV-Ray](POV-Ray/): 3DCG
